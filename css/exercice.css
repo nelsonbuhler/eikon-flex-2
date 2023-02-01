@@ -17,7 +17,12 @@
 }
 
 
-/* 4. exercice-justify-3 */
+.exercice-justify-3 .container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  
+}
 
 
 /* 5. exercice-align-1 */
